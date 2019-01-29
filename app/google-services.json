@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198733052870",
+    "firebase_url": "https://smartpark-a948c.firebaseio.com",
+    "project_id": "smartpark-a948c",
+    "storage_bucket": "smartpark-a948c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198733052870:android:9975b142e2f0ec0b",
+        "android_client_info": {
+          "package_name": "com.example.karan.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198733052870-1d16797hsp8gt5plct0hac9rdc7j08t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXndUuNZvrim8OHG9JCmRgTPFR-ynIJnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
